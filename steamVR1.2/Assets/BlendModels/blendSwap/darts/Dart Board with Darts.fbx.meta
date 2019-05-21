@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: f36575770c290d444ae4afceab44e389
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dart Board
+    100002: Dart Board - edge ring
+    100004: Dart Board - fasteners
+    100006: Dart Board - radial rings
+    100008: Dart Board - radial spikes
+    100010: Dart Board Number 0
+    100012: Dart Board Number 0.001
+    100014: Dart Board Number 1
+    100016: Dart Board Number 1.001
+    100018: Dart Board Number 1.002
+    100020: Dart Board Number 1.003
+    100022: Dart Board Number 1.004
+    100024: Dart Board Number 1.005
+    100026: Dart Board Number 1.006
+    100028: Dart Board Number 1.007
+    100030: Dart Board Number 1.008
+    100032: Dart Board Number 1.009
+    100034: Dart Board Number 1.010
+    100036: Dart Board Number 1.011
+    100038: Dart Board Number 2
+    100040: Dart Board Number 2.001
+    100042: Dart Board Number 2.002
+    100044: Dart Board Number 3
+    100046: Dart Board Number 3.001
+    100048: Dart Board Number 4
+    100050: Dart Board Number 4.001
+    100052: Dart Board Number 5
+    100054: Dart Board Number 5.001
+    100056: Dart Board Number 6
+    100058: Dart Board Number 6.001
+    100060: Dart Board Number 6.002
+    100062: Dart Board Number 6.003
+    100064: Dart Board Number 7
+    100066: Dart Board Number 7.001
+    100068: Dart Board Number 8
+    100070: Dart Board Number 8.001
+    100072: //RootNode
+    100074: Dart body markings
+    100076: Dart body markings.001
+    100078: Dart body markings.002
+    100080: Dart main body
+    100082: Dart main body.001
+    100084: Dart main body.002
+    100086: Dart wing horiz
+    100088: Dart wing horiz.002
+    100090: Dart wing vert
+    100092: Dart wing vert.002
+    400000: Dart Board
+    400002: Dart Board - edge ring
+    400004: Dart Board - fasteners
+    400006: Dart Board - radial rings
+    400008: Dart Board - radial spikes
+    400010: Dart Board Number 0
+    400012: Dart Board Number 0.001
+    400014: Dart Board Number 1
+    400016: Dart Board Number 1.001
+    400018: Dart Board Number 1.002
+    400020: Dart Board Number 1.003
+    400022: Dart Board Number 1.004
+    400024: Dart Board Number 1.005
+    400026: Dart Board Number 1.006
+    400028: Dart Board Number 1.007
+    400030: Dart Board Number 1.008
+    400032: Dart Board Number 1.009
+    400034: Dart Board Number 1.010
+    400036: Dart Board Number 1.011
+    400038: Dart Board Number 2
+    400040: Dart Board Number 2.001
+    400042: Dart Board Number 2.002
+    400044: Dart Board Number 3
+    400046: Dart Board Number 3.001
+    400048: Dart Board Number 4
+    400050: Dart Board Number 4.001
+    400052: Dart Board Number 5
+    400054: Dart Board Number 5.001
+    400056: Dart Board Number 6
+    400058: Dart Board Number 6.001
+    400060: Dart Board Number 6.002
+    400062: Dart Board Number 6.003
+    400064: Dart Board Number 7
+    400066: Dart Board Number 7.001
+    400068: Dart Board Number 8
+    400070: Dart Board Number 8.001
+    400072: //RootNode
+    400074: Dart body markings
+    400076: Dart body markings.001
+    400078: Dart body markings.002
+    400080: Dart main body
+    400082: Dart main body.001
+    400084: Dart main body.002
+    400086: Dart wing horiz
+    400088: Dart wing horiz.002
+    400090: Dart wing vert
+    400092: Dart wing vert.002
+    2100000: Red plastic
+    2100002: Chrome metal
+    2100004: Dark blue plastic
+    2100006: Fool's Gold
+    2100008: Dart - Red
+    2100010: Dart - Green
+    2100012: Dart - Black
+    2100014: Dart - White
+    2300000: Dart Board
+    2300002: Dart Board - edge ring
+    2300004: Dart Board - fasteners
+    2300006: Dart Board - radial rings
+    2300008: Dart Board - radial spikes
+    2300010: Dart Board Number 0
+    2300012: Dart Board Number 0.001
+    2300014: Dart Board Number 1
+    2300016: Dart Board Number 1.001
+    2300018: Dart Board Number 1.002
+    2300020: Dart Board Number 1.003
+    2300022: Dart Board Number 1.004
+    2300024: Dart Board Number 1.005
+    2300026: Dart Board Number 1.006
+    2300028: Dart Board Number 1.007
+    2300030: Dart Board Number 1.008
+    2300032: Dart Board Number 1.009
+    2300034: Dart Board Number 1.010
+    2300036: Dart Board Number 1.011
+    2300038: Dart Board Number 2
+    2300040: Dart Board Number 2.001
+    2300042: Dart Board Number 2.002
+    2300044: Dart Board Number 3
+    2300046: Dart Board Number 3.001
+    2300048: Dart Board Number 4
+    2300050: Dart Board Number 4.001
+    2300052: Dart Board Number 5
+    2300054: Dart Board Number 5.001
+    2300056: Dart Board Number 6
+    2300058: Dart Board Number 6.001
+    2300060: Dart Board Number 6.002
+    2300062: Dart Board Number 6.003
+    2300064: Dart Board Number 7
+    2300066: Dart Board Number 7.001
+    2300068: Dart Board Number 8
+    2300070: Dart Board Number 8.001
+    2300072: Dart body markings
+    2300074: Dart body markings.001
+    2300076: Dart body markings.002
+    2300078: Dart main body
+    2300080: Dart main body.001
+    2300082: Dart main body.002
+    2300084: Dart wing horiz
+    2300086: Dart wing horiz.002
+    2300088: Dart wing vert
+    2300090: Dart wing vert.002
+    3300000: Dart Board
+    3300002: Dart Board - edge ring
+    3300004: Dart Board - fasteners
+    3300006: Dart Board - radial rings
+    3300008: Dart Board - radial spikes
+    3300010: Dart Board Number 0
+    3300012: Dart Board Number 0.001
+    3300014: Dart Board Number 1
+    3300016: Dart Board Number 1.001
+    3300018: Dart Board Number 1.002
+    3300020: Dart Board Number 1.003
+    3300022: Dart Board Number 1.004
+    3300024: Dart Board Number 1.005
+    3300026: Dart Board Number 1.006
+    3300028: Dart Board Number 1.007
+    3300030: Dart Board Number 1.008
+    3300032: Dart Board Number 1.009
+    3300034: Dart Board Number 1.010
+    3300036: Dart Board Number 1.011
+    3300038: Dart Board Number 2
+    3300040: Dart Board Number 2.001
+    3300042: Dart Board Number 2.002
+    3300044: Dart Board Number 3
+    3300046: Dart Board Number 3.001
+    3300048: Dart Board Number 4
+    3300050: Dart Board Number 4.001
+    3300052: Dart Board Number 5
+    3300054: Dart Board Number 5.001
+    3300056: Dart Board Number 6
+    3300058: Dart Board Number 6.001
+    3300060: Dart Board Number 6.002
+    3300062: Dart Board Number 6.003
+    3300064: Dart Board Number 7
+    3300066: Dart Board Number 7.001
+    3300068: Dart Board Number 8
+    3300070: Dart Board Number 8.001
+    3300072: Dart body markings
+    3300074: Dart body markings.001
+    3300076: Dart body markings.002
+    3300078: Dart main body
+    3300080: Dart main body.001
+    3300082: Dart main body.002
+    3300084: Dart wing horiz
+    3300086: Dart wing horiz.002
+    3300088: Dart wing vert
+    3300090: Dart wing vert.002
+    4300000: Dart wing vert.002
+    4300002: Dart wing horiz.002
+    4300004: Dart main body.002
+    4300006: Dart body markings.002
+    4300008: Dart body markings.001
+    4300010: Dart main body.001
+    4300012: Dart wing vert
+    4300014: Dart wing horiz
+    4300016: Dart main body
+    4300018: Dart body markings
+    4300020: Dart Board Number 5.001
+    4300022: Dart Board Number 2.002
+    4300024: Dart Board Number 1.011
+    4300026: Dart Board Number 6.003
+    4300028: Dart Board Number 4.001
+    4300030: Dart Board Number 1.010
+    4300032: Dart Board Number 1.009
+    4300034: Dart Board Number 1.008
+    4300036: Dart Board Number 8.001
+    4300038: Dart Board Number 6.002
+    4300040: Dart Board Number 1.007
+    4300042: Dart Board Number 1.006
+    4300044: Dart Board Number 7.001
+    4300046: Dart Board Number 1.005
+    4300048: Dart Board Number 6.001
+    4300050: Dart Board Number 3.001
+    4300052: Dart Board Number 1.004
+    4300054: Dart Board Number 2.001
+    4300056: Dart Board Number 1.003
+    4300058: Dart Board Number 0.001
+    4300060: Dart Board Number 1.002
+    4300062: Dart Board Number 1.001
+    4300064: Dart Board Number 8
+    4300066: Dart Board Number 4
+    4300068: Dart Board Number 7
+    4300070: Dart Board Number 6
+    4300072: Dart Board Number 5
+    4300074: Dart Board Number 3
+    4300076: Dart Board Number 2
+    4300078: Dart Board Number 1
+    4300080: Dart Board Number 0
+    4300082: Dart Board
+    4300084: Dart Board - edge ring
+    4300086: Dart Board - fasteners
+    4300088: Dart Board - radial rings
+    4300090: Dart Board - radial spikes
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
