@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 42f463d14b312b546b442847758aeaec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bezel.001
+    100004: bezel.002
+    100006: body
+    100008: boot handle
+    100010: boot handle base
+    100012: bumper front
+    100014: chassis rails
+    100016: Cube.003
+    100018: Cube.004
+    100020: Cube.005
+    100022: Cube.006
+    100024: Cube.007
+    100026: Cube.008
+    100028: Cube.009
+    100030: Cube.010
+    100032: Cube.015
+    100034: dash bezel
+    100036: dashboard surround
+    100038: dial bezel
+    100040: dial bezel.001
+    100042: dial glass
+    100044: dial glass.001
+    100046: door handle
+    100048: door handle.001
+    100050: driveshaft
+    100052: Empty
+    100054: exhaust
+    100056: floor pan
+    100058: front axle L
+    100060: front axle R
+    100062: front seat.000
+    100064: front seat.001
+    100066: FUEL GAUGE
+    100068: gearbox
+    100070: grill bar
+    100072: grill mesh
+    100074: grill surround
+    100076: headlight bezel
+    100078: headlight bezel.001
+    100080: headlight L
+    100082: headlight lens L
+    100084: headlight lens L.001
+    100086: headlight R
+    100088: hinge.001
+    100090: hinge.002
+    100092: HUBCAP
+    100094: HUBCAP.001
+    100096: HUBCAP.002
+    100098: HUBCAP.003
+    100100: indicator fL
+    100102: indicator fR
+    100104: inner wing
+    100106: knob
+    100108: knob.001
+    100110: knob.002
+    100112: leaf spring
+    100114: leaf spring.001
+    100116: light housing
+    100118: mirror
+    100120: mirror.001
+    100122: mount
+    100124: number plate rear
+    100126: number plate.jpg.001
+    100128: pedal
+    100130: Plane
+    100132: Plane.001
+    100134: plate light
+    100136: Point
+    100138: rear axle
+    100140: rear light plate
+    100142: rear light.001
+    100144: rear light.003
+    100146: rear window
+    100148: roof rail
+    100150: screen
+    100152: side door L
+    100154: side door R
+    100156: side window
+    100158: side window.001
+    100160: SPEEDOMETER
+    100162: Sphere.012
+    100164: Sphere.013
+    100166: Sphere.014
+    100168: Sphere.015
+    100170: steel wheel hub
+    100172: steel wheel hub.001
+    100174: steel wheel hub.002
+    100176: steel wheel hub.003
+    100178: steel wheel hub.004
+    100180: steering mount
+    100182: steering wheel
+    100184: switch
+    100186: switch.001
+    100188: switch.002
+    100190: switch.003
+    100192: Text
+    100194: tyre
+    100196: tyre.001
+    100198: tyre.002
+    100200: tyre.003
+    100202: tyre.004
+    100204: wheel nut
+    100206: wheel nut.001
+    100208: window trim
+    100210: window trim.001
+    100212: wiper.001
+    400000: //RootNode
+    400002: bezel.001
+    400004: bezel.002
+    400006: body
+    400008: boot handle
+    400010: boot handle base
+    400012: bumper front
+    400014: chassis rails
+    400016: Cube.003
+    400018: Cube.004
+    400020: Cube.005
+    400022: Cube.006
+    400024: Cube.007
+    400026: Cube.008
+    400028: Cube.009
+    400030: Cube.010
+    400032: Cube.015
+    400034: dash bezel
+    400036: dashboard surround
+    400038: dial bezel
+    400040: dial bezel.001
+    400042: dial glass
+    400044: dial glass.001
+    400046: door handle
+    400048: door handle.001
+    400050: driveshaft
+    400052: Empty
+    400054: exhaust
+    400056: floor pan
+    400058: front axle L
+    400060: front axle R
+    400062: front seat.000
+    400064: front seat.001
+    400066: FUEL GAUGE
+    400068: gearbox
+    400070: grill bar
+    400072: grill mesh
+    400074: grill surround
+    400076: headlight bezel
+    400078: headlight bezel.001
+    400080: headlight L
+    400082: headlight lens L
+    400084: headlight lens L.001
+    400086: headlight R
+    400088: hinge.001
+    400090: hinge.002
+    400092: HUBCAP
+    400094: HUBCAP.001
+    400096: HUBCAP.002
+    400098: HUBCAP.003
+    400100: indicator fL
+    400102: indicator fR
+    400104: inner wing
+    400106: knob
+    400108: knob.001
+    400110: knob.002
+    400112: leaf spring
+    400114: leaf spring.001
+    400116: light housing
+    400118: mirror
+    400120: mirror.001
+    400122: mount
+    400124: number plate rear
+    400126: number plate.jpg.001
+    400128: pedal
+    400130: Plane
+    400132: Plane.001
+    400134: plate light
+    400136: Point
+    400138: rear axle
+    400140: rear light plate
+    400142: rear light.001
+    400144: rear light.003
+    400146: rear window
+    400148: roof rail
+    400150: screen
+    400152: side door L
+    400154: side door R
+    400156: side window
+    400158: side window.001
+    400160: SPEEDOMETER
+    400162: Sphere.012
+    400164: Sphere.013
+    400166: Sphere.014
+    400168: Sphere.015
+    400170: steel wheel hub
+    400172: steel wheel hub.001
+    400174: steel wheel hub.002
+    400176: steel wheel hub.003
+    400178: steel wheel hub.004
+    400180: steering mount
+    400182: steering wheel
+    400184: switch
+    400186: switch.001
+    400188: switch.002
+    400190: switch.003
+    400192: Text
+    400194: tyre
+    400196: tyre.001
+    400198: tyre.002
+    400200: tyre.003
+    400202: tyre.004
+    400204: wheel nut
+    400206: wheel nut.001
+    400208: window trim
+    400210: window trim.001
+    400212: wiper.001
+    2100000: body
+    2100002: rough floor
+    2100004: CHROME.002
+    2100006: glass
+    2100008: rubber seal
+    2100010: CHROME rusty
+    2100012: number plate
+    2100014: ind glass
+    2100016: red glass
+    2100018: inside body
+    2100020: chassis.001
+    2100022: CHROME DULL
+    2100024: RUBBER
+    2100026: STEEL
+    2100028: GLASS.001
+    2100030: CHROME.001
+    2100032: leather
+    2100034: dull silver
+    2100036: EXHAUST
+    2100038: RUBBER.002
+    2300000: bezel.001
+    2300002: bezel.002
+    2300004: body
+    2300006: boot handle
+    2300008: boot handle base
+    2300010: bumper front
+    2300012: chassis rails
+    2300014: Cube.003
+    2300016: Cube.004
+    2300018: Cube.005
+    2300020: Cube.006
+    2300022: Cube.007
+    2300024: Cube.008
+    2300026: Cube.009
+    2300028: Cube.010
+    2300030: Cube.015
+    2300032: dash bezel
+    2300034: dashboard surround
+    2300036: dial bezel
+    2300038: dial bezel.001
+    2300040: dial glass
+    2300042: dial glass.001
+    2300044: door handle
+    2300046: door handle.001
+    2300048: driveshaft
+    2300050: exhaust
+    2300052: floor pan
+    2300054: front axle L
+    2300056: front axle R
+    2300058: front seat.000
+    2300060: front seat.001
+    2300062: FUEL GAUGE
+    2300064: gearbox
+    2300066: grill bar
+    2300068: grill mesh
+    2300070: grill surround
+    2300072: headlight bezel
+    2300074: headlight bezel.001
+    2300076: headlight lens L
+    2300078: headlight lens L.001
+    2300080: hinge.001
+    2300082: hinge.002
+    2300084: HUBCAP
+    2300086: HUBCAP.001
+    2300088: HUBCAP.002
+    2300090: HUBCAP.003
+    2300092: indicator fL
+    2300094: indicator fR
+    2300096: inner wing
+    2300098: knob
+    2300100: knob.001
+    2300102: knob.002
+    2300104: leaf spring
+    2300106: leaf spring.001
+    2300108: light housing
+    2300110: mirror
+    2300112: mirror.001
+    2300114: mount
+    2300116: number plate rear
+    2300118: number plate.jpg.001
+    2300120: pedal
+    2300122: Plane
+    2300124: Plane.001
+    2300126: plate light
+    2300128: rear axle
+    2300130: rear light plate
+    2300132: rear light.001
+    2300134: rear light.003
+    2300136: rear window
+    2300138: roof rail
+    2300140: screen
+    2300142: side door L
+    2300144: side door R
+    2300146: side window
+    2300148: side window.001
+    2300150: SPEEDOMETER
+    2300152: Sphere.012
+    2300154: Sphere.013
+    2300156: Sphere.014
+    2300158: Sphere.015
+    2300160: steel wheel hub
+    2300162: steel wheel hub.001
+    2300164: steel wheel hub.002
+    2300166: steel wheel hub.003
+    2300168: steel wheel hub.004
+    2300170: steering mount
+    2300172: steering wheel
+    2300174: switch
+    2300176: switch.001
+    2300178: switch.002
+    2300180: switch.003
+    2300182: Text
+    2300184: tyre
+    2300186: tyre.001
+    2300188: tyre.002
+    2300190: tyre.003
+    2300192: tyre.004
+    2300194: wheel nut
+    2300196: wheel nut.001
+    2300198: window trim
+    2300200: window trim.001
+    2300202: wiper.001
+    3300000: bezel.001
+    3300002: bezel.002
+    3300004: body
+    3300006: boot handle
+    3300008: boot handle base
+    3300010: bumper front
+    3300012: chassis rails
+    3300014: Cube.003
+    3300016: Cube.004
+    3300018: Cube.005
+    3300020: Cube.006
+    3300022: Cube.007
+    3300024: Cube.008
+    3300026: Cube.009
+    3300028: Cube.010
+    3300030: Cube.015
+    3300032: dash bezel
+    3300034: dashboard surround
+    3300036: dial bezel
+    3300038: dial bezel.001
+    3300040: dial glass
+    3300042: dial glass.001
+    3300044: door handle
+    3300046: door handle.001
+    3300048: driveshaft
+    3300050: exhaust
+    3300052: floor pan
+    3300054: front axle L
+    3300056: front axle R
+    3300058: front seat.000
+    3300060: front seat.001
+    3300062: FUEL GAUGE
+    3300064: gearbox
+    3300066: grill bar
+    3300068: grill mesh
+    3300070: grill surround
+    3300072: headlight bezel
+    3300074: headlight bezel.001
+    3300076: headlight lens L
+    3300078: headlight lens L.001
+    3300080: hinge.001
+    3300082: hinge.002
+    3300084: HUBCAP
+    3300086: HUBCAP.001
+    3300088: HUBCAP.002
+    3300090: HUBCAP.003
+    3300092: indicator fL
+    3300094: indicator fR
+    3300096: inner wing
+    3300098: knob
+    3300100: knob.001
+    3300102: knob.002
+    3300104: leaf spring
+    3300106: leaf spring.001
+    3300108: light housing
+    3300110: mirror
+    3300112: mirror.001
+    3300114: mount
+    3300116: number plate rear
+    3300118: number plate.jpg.001
+    3300120: pedal
+    3300122: Plane
+    3300124: Plane.001
+    3300126: plate light
+    3300128: rear axle
+    3300130: rear light plate
+    3300132: rear light.001
+    3300134: rear light.003
+    3300136: rear window
+    3300138: roof rail
+    3300140: screen
+    3300142: side door L
+    3300144: side door R
+    3300146: side window
+    3300148: side window.001
+    3300150: SPEEDOMETER
+    3300152: Sphere.012
+    3300154: Sphere.013
+    3300156: Sphere.014
+    3300158: Sphere.015
+    3300160: steel wheel hub
+    3300162: steel wheel hub.001
+    3300164: steel wheel hub.002
+    3300166: steel wheel hub.003
+    3300168: steel wheel hub.004
+    3300170: steering mount
+    3300172: steering wheel
+    3300174: switch
+    3300176: switch.001
+    3300178: switch.002
+    3300180: switch.003
+    3300182: Text
+    3300184: tyre
+    3300186: tyre.001
+    3300188: tyre.002
+    3300190: tyre.003
+    3300192: tyre.004
+    3300194: wheel nut
+    3300196: wheel nut.001
+    3300198: window trim
+    3300200: window trim.001
+    3300202: wiper.001
+    4300000: Plane
+    4300002: Plane.001
+    4300004: side door L
+    4300006: window trim.001
+    4300008: side window.001
+    4300010: door handle
+    4300012: side door R
+    4300014: window trim
+    4300016: side window
+    4300018: door handle.001
+    4300020: rear window
+    4300022: number plate rear
+    4300024: Sphere.015
+    4300026: Sphere.014
+    4300028: bumper front
+    4300030: number plate.jpg.001
+    4300032: Sphere.013
+    4300034: Sphere.012
+    4300036: boot handle base
+    4300038: indicator fR
+    4300040: indicator fL
+    4300042: rear light.001
+    4300044: rear light.003
+    4300046: bezel.002
+    4300048: bezel.001
+    4300050: light housing
+    4300052: floor pan
+    4300054: headlight bezel
+    4300056: headlight bezel.001
+    4300058: screen
+    4300060: mount
+    4300062: Text
+    4300064: hinge.001
+    4300066: hinge.002
+    4300068: rear axle
+    4300070: Cube.009
+    4300072: Cube.008
+    4300074: Cube.005
+    4300076: Cube.004
+    4300078: tyre.004
+    4300080: steel wheel hub.004
+    4300082: gearbox
+    4300084: front axle L
+    4300086: front axle R
+    4300088: driveshaft
+    4300090: leaf spring.001
+    4300092: Cube.010
+    4300094: Cube.007
+    4300096: Cube.006
+    4300098: Cube.003
+    4300100: leaf spring
+    4300102: tyre.003
+    4300104: steel wheel hub.003
+    4300106: HUBCAP.002
+    4300108: tyre.002
+    4300110: steel wheel hub.002
+    4300112: HUBCAP.003
+    4300114: tyre.001
+    4300116: steel wheel hub.001
+    4300118: wheel nut.001
+    4300120: HUBCAP.001
+    4300122: tyre
+    4300124: steel wheel hub
+    4300126: wheel nut
+    4300128: HUBCAP
+    4300130: chassis rails
+    4300132: steering mount
+    4300134: headlight lens L.001
+    4300136: boot handle
+    4300138: headlight lens L
+    4300140: front seat.000
+    4300142: inner wing
+    4300144: front seat.001
+    4300146: roof rail
+    4300148: grill bar
+    4300150: grill mesh
+    4300152: grill surround
+    4300154: mirror.001
+    4300156: mirror
+    4300158: SPEEDOMETER
+    4300160: FUEL GAUGE
+    4300162: dial glass.001
+    4300164: dial bezel.001
+    4300166: dial glass
+    4300168: dial bezel
+    4300170: Cube.015
+    4300172: pedal
+    4300174: knob
+    4300176: knob.002
+    4300178: knob.001
+    4300180: switch.003
+    4300182: switch.002
+    4300184: switch.001
+    4300186: switch
+    4300188: steering wheel
+    4300190: dash bezel
+    4300192: dashboard surround
+    4300194: plate light
+    4300196: rear light plate
+    4300198: wiper.001
+    4300200: body
+    4300202: exhaust
+    10800000: headlight L
+    10800002: headlight R
+    10800004: Point
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
