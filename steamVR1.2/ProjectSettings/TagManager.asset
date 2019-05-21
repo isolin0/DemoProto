@@ -13,6 +13,9 @@ TagManager:
   - Torso
   - Head
   - Devise
+  - projectile
+  - FxTemporaire
+  - TeleportIgnore
   layers:
   - Default
   - TransparentFX
@@ -24,7 +27,7 @@ TagManager:
   - 
   - segundo plano
   - Devise
-  - 
+  - NoExisteEnSegundoPlano
   - 
   - 
   - 
