@@ -14,6 +14,30 @@ public class SetPointer : MonoBehaviour
 
 	public bool Teleport;
 	// Start is called before the first frame update
+	private void Update()
+	{
+		if (Teleport)
+		{
+			L_pointer.enabled = true;
+			L_render.enabled = true;
+			R_pointer.enabled = true;
+			R_render.enabled = true;
+		}
+		else
+		{
+			L_pointer.enabled = false;
+			L_render.enabled = false;
+			R_pointer.enabled = false;
+			R_render.enabled = false;
+		}
+	}
+
+	public void PointerState(bool state)
+	{
+	
+		Teleport = state;
+	}
+	/*
 	void Start()
     {
 		
@@ -36,6 +60,7 @@ public class SetPointer : MonoBehaviour
 			R_render.enabled = false;
 		}
     }
+	*/
 
     
 }

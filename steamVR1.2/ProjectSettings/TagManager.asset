@@ -16,6 +16,8 @@ TagManager:
   - projectile
   - FxTemporaire
   - TeleportIgnore
+  - cajaDeLuz
+  - KnifeStuck
   layers:
   - Default
   - TransparentFX
