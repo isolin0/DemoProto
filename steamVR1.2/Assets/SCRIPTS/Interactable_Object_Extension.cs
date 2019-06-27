@@ -79,15 +79,17 @@ public class Interactable_Object_Extension : MonoBehaviour
 
 	{
 	
-		Debug.Log("Im Grabbed");
+		//Debug.Log("Im Grabbed");
 		Grabbed(true);
 		rb.isKinematic = false;
+
+		
 	}
 
 	private void ObjectUnGrabbed(object sender, InteractableObjectEventArgs e)
 
 	{
-		Debug.Log("Not Grabbed");
+		//Debug.Log("Not Grabbed");
 			Grabbed(false);
 		rb.isKinematic = false;
 		badHit = false;
@@ -126,7 +128,7 @@ public class Interactable_Object_Extension : MonoBehaviour
 	private void OnCollisionEnter(Collision coll)
 	{
 		badHit = true;
-		Debug.Log("bad hit");
+		//Debug.Log("bad hit");
 	}
 	
 }
