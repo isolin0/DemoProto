@@ -18,6 +18,9 @@ TagManager:
   - TeleportIgnore
   - cajaDeLuz
   - KnifeStuck
+  - gabinete
+  - Index
+  - IndexR
   layers:
   - Default
   - TransparentFX
