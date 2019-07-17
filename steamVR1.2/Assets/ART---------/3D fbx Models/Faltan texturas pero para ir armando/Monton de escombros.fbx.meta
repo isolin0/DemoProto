@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: f71a12c5048d83c499eea5f602ec48fe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chapita
+    100002: Chapon
+    100004: Escombro
+    100006: Escombro.001
+    100008: Escombro.002
+    100010: Escombro.003
+    100012: Escombro.004
+    100014: Escombro.005
+    100016: Escombro.006
+    100018: Escombro.007
+    100020: Escombro.008
+    100022: Escombro.009
+    100024: Escombro.010
+    100026: Escombro.011
+    100028: Escombro.012
+    100030: Escombro.013
+    100032: Monton de Basura
+    100034: //RootNode
+    100036: Palo entero
+    100038: Palo roto
+    100040: Palo roto.001
+    400000: Chapita
+    400002: Chapon
+    400004: Escombro
+    400006: Escombro.001
+    400008: Escombro.002
+    400010: Escombro.003
+    400012: Escombro.004
+    400014: Escombro.005
+    400016: Escombro.006
+    400018: Escombro.007
+    400020: Escombro.008
+    400022: Escombro.009
+    400024: Escombro.010
+    400026: Escombro.011
+    400028: Escombro.012
+    400030: Escombro.013
+    400032: Monton de Basura
+    400034: //RootNode
+    400036: Palo entero
+    400038: Palo roto
+    400040: Palo roto.001
+    2100000: Hormigon
+    2100002: "monta\xF1a de basura"
+    2100004: chapa
+    2100006: Madera
+    2300000: Chapita
+    2300002: Chapon
+    2300004: Escombro
+    2300006: Escombro.001
+    2300008: Escombro.002
+    2300010: Escombro.003
+    2300012: Escombro.004
+    2300014: Escombro.005
+    2300016: Escombro.006
+    2300018: Escombro.007
+    2300020: Escombro.008
+    2300022: Escombro.009
+    2300024: Escombro.010
+    2300026: Escombro.011
+    2300028: Escombro.012
+    2300030: Escombro.013
+    2300032: Monton de Basura
+    2300034: Palo entero
+    2300036: Palo roto
+    2300038: Palo roto.001
+    3300000: Chapita
+    3300002: Chapon
+    3300004: Escombro
+    3300006: Escombro.001
+    3300008: Escombro.002
+    3300010: Escombro.003
+    3300012: Escombro.004
+    3300014: Escombro.005
+    3300016: Escombro.006
+    3300018: Escombro.007
+    3300020: Escombro.008
+    3300022: Escombro.009
+    3300024: Escombro.010
+    3300026: Escombro.011
+    3300028: Escombro.012
+    3300030: Escombro.013
+    3300032: Monton de Basura
+    3300034: Palo entero
+    3300036: Palo roto
+    3300038: Palo roto.001
+    4300000: Escombro.008
+    4300002: Monton de Basura
+    4300004: Chapon
+    4300006: Palo entero
+    4300008: Palo roto.001
+    4300010: Palo roto
+    4300012: Chapita
+    4300014: Escombro.007
+    4300016: Escombro.004
+    4300018: Escombro.001
+    4300020: Escombro.013
+    4300022: Escombro.006
+    4300024: Escombro
+    4300026: Escombro.005
+    4300028: Escombro.012
+    4300030: Escombro.009
+    4300032: Escombro.010
+    4300034: Escombro.002
+    4300036: Escombro.011
+    4300038: Escombro.003
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

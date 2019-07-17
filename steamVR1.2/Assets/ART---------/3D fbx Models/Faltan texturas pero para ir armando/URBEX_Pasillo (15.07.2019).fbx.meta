@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: fd4813504c365974094d363ffb523b6a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Alambre (curva follower)
+    100002: Alambre (curva follower).001
+    100004: Alambre (curva follower).002
+    100006: Alambre (curva follower).003
+    100008: Alambre (curva follower).004
+    100010: Alambre (curva)
+    100012: Alambre (pedacito)
+    100014: Alambre (set de 2)
+    100016: Bloque
+    100018: Bloque.001
+    100020: Bloque.002
+    100022: Bloque.003
+    100024: Bloque.004
+    100026: Bloque.005
+    100028: Bolsa aplastada
+    100030: Bolsa de Basura
+    100032: Bolsa de Basura.001
+    100034: Bolsa de Basura.002
+    100036: Bolsa de Basura.003
+    100038: Bombillo.001
+    100040: Bombillo.002
+    100042: Botella
+    100044: Botella Aplastada
+    100046: Chapita
+    100048: Chapon
+    100050: Circle
+    100052: Columna aplicada.003
+    100054: Cube.000
+    100056: Cube.001
+    100058: Cube.004
+    100060: Cube.005
+    100062: Cube.006
+    100064: Cube.007
+    100066: Cylinder
+    100068: Cylinder.001
+    100070: Escombro
+    100072: Escombro.001
+    100074: Escombro.002
+    100076: Escombro.003
+    100078: Escombro.004
+    100080: Escombro.005
+    100082: Escombro.006
+    100084: Escombro.007
+    100086: Escombro.008
+    100088: Escombro.009
+    100090: Escombro.010
+    100092: Escombro.011
+    100094: Escombro.012
+    100096: Escombro.013
+    100098: Fachada
+    100100: Human Reference
+    100102: Lata Rota 01
+    100104: Lata Rota 02
+    100106: Marco de ventana
+    100108: Monton de Basura
+    100110: Palo entero
+    100112: Palo roto
+    100114: Palo roto.001
+    100116: Plane
+    100118: Plane.001
+    100120: Plane.002
+    100122: Puerta
+    100124: Puerta_marco
+    100126: Puerta_pestillo
+    100128: Reja
+    100130: Retado de Madera_A
+    100132: Retado de Madera_B
+    100134: Retado de Madera_C
+    100136: Tuberia_codo
+    100138: Tuberia_codo.001
+    100140: Tuberia_recta
+    100142: Tuberia_recta.001
+    100144: Tuberia_rectaCorta
+    100146: Tuberia_rectaCorta.001
+    100148: Tuberia_T
+    100150: //RootNode
+    100152: Vegetacion_01
+    100154: Vegetacion_02
+    100156: Ventana y marco
+    400000: Alambre (curva follower)
+    400002: Alambre (curva follower).001
+    400004: Alambre (curva follower).002
+    400006: Alambre (curva follower).003
+    400008: Alambre (curva follower).004
+    400010: Alambre (curva)
+    400012: Alambre (pedacito)
+    400014: Alambre (set de 2)
+    400016: Bloque
+    400018: Bloque.001
+    400020: Bloque.002
+    400022: Bloque.003
+    400024: Bloque.004
+    400026: Bloque.005
+    400028: Bolsa aplastada
+    400030: Bolsa de Basura
+    400032: Bolsa de Basura.001
+    400034: Bolsa de Basura.002
+    400036: Bolsa de Basura.003
+    400038: Bombillo.001
+    400040: Bombillo.002
+    400042: Botella
+    400044: Botella Aplastada
+    400046: Chapita
+    400048: Chapon
+    400050: Circle
+    400052: Columna aplicada.003
+    400054: Cube.000
+    400056: Cube.001
+    400058: Cube.004
+    400060: Cube.005
+    400062: Cube.006
+    400064: Cube.007
+    400066: Cylinder
+    400068: Cylinder.001
+    400070: Escombro
+    400072: Escombro.001
+    400074: Escombro.002
+    400076: Escombro.003
+    400078: Escombro.004
+    400080: Escombro.005
+    400082: Escombro.006
+    400084: Escombro.007
+    400086: Escombro.008
+    400088: Escombro.009
+    400090: Escombro.010
+    400092: Escombro.011
+    400094: Escombro.012
+    400096: Escombro.013
+    400098: Fachada
+    400100: Human Reference
+    400102: Lata Rota 01
+    400104: Lata Rota 02
+    400106: Marco de ventana
+    400108: Monton de Basura
+    400110: Palo entero
+    400112: Palo roto
+    400114: Palo roto.001
+    400116: Plane
+    400118: Plane.001
+    400120: Plane.002
+    400122: Puerta
+    400124: Puerta_marco
+    400126: Puerta_pestillo
+    400128: Reja
+    400130: Retado de Madera_A
+    400132: Retado de Madera_B
+    400134: Retado de Madera_C
+    400136: Tuberia_codo
+    400138: Tuberia_codo.001
+    400140: Tuberia_recta
+    400142: Tuberia_recta.001
+    400144: Tuberia_rectaCorta
+    400146: Tuberia_rectaCorta.001
+    400148: Tuberia_T
+    400150: //RootNode
+    400152: Vegetacion_01
+    400154: Vegetacion_02
+    400156: Ventana y marco
+    2100000: Distinctive
+    2100002: Bolsa de Basura
+    2100004: Lata
+    2100006: Botella
+    2100008: Botella vieja
+    2100010: Madera
+    2100012: No Name
+    2100014: UVGRID
+    2100016: Reja
+    2100018: Tuberias
+    2100020: calle
+    2100022: Green
+    2100024: Pared
+    2100026: Puerta
+    2100028: Ventana
+    2100030: Hormigon
+    2100032: "monta\xF1a de basura"
+    2100034: chapa
+    2300000: Alambre (curva follower)
+    2300002: Alambre (curva follower).001
+    2300004: Alambre (curva follower).002
+    2300006: Alambre (curva follower).003
+    2300008: Alambre (curva follower).004
+    2300010: Alambre (curva)
+    2300012: Alambre (pedacito)
+    2300014: Alambre (set de 2)
+    2300016: Bloque
+    2300018: Bloque.001
+    2300020: Bloque.002
+    2300022: Bloque.003
+    2300024: Bloque.004
+    2300026: Bloque.005
+    2300028: Bolsa aplastada
+    2300030: Bolsa de Basura
+    2300032: Bolsa de Basura.001
+    2300034: Bolsa de Basura.002
+    2300036: Bolsa de Basura.003
+    2300038: Bombillo.001
+    2300040: Bombillo.002
+    2300042: Botella
+    2300044: Botella Aplastada
+    2300046: Chapita
+    2300048: Chapon
+    2300050: Circle
+    2300052: Columna aplicada.003
+    2300054: Cube.000
+    2300056: Cube.001
+    2300058: Cube.004
+    2300060: Cube.005
+    2300062: Cube.006
+    2300064: Cube.007
+    2300066: Cylinder
+    2300068: Cylinder.001
+    2300070: Escombro
+    2300072: Escombro.001
+    2300074: Escombro.002
+    2300076: Escombro.003
+    2300078: Escombro.004
+    2300080: Escombro.005
+    2300082: Escombro.006
+    2300084: Escombro.007
+    2300086: Escombro.008
+    2300088: Escombro.009
+    2300090: Escombro.010
+    2300092: Escombro.011
+    2300094: Escombro.012
+    2300096: Escombro.013
+    2300098: Fachada
+    2300100: Human Reference
+    2300102: Lata Rota 01
+    2300104: Lata Rota 02
+    2300106: Marco de ventana
+    2300108: Monton de Basura
+    2300110: Palo entero
+    2300112: Palo roto
+    2300114: Palo roto.001
+    2300116: Plane
+    2300118: Plane.001
+    2300120: Plane.002
+    2300122: Puerta
+    2300124: Puerta_marco
+    2300126: Puerta_pestillo
+    2300128: Reja
+    2300130: Retado de Madera_A
+    2300132: Retado de Madera_B
+    2300134: Retado de Madera_C
+    2300136: Tuberia_codo
+    2300138: Tuberia_codo.001
+    2300140: Tuberia_recta
+    2300142: Tuberia_recta.001
+    2300144: Tuberia_rectaCorta
+    2300146: Tuberia_rectaCorta.001
+    2300148: Tuberia_T
+    2300150: Vegetacion_01
+    2300152: Vegetacion_02
+    2300154: Ventana y marco
+    3300000: Alambre (curva follower)
+    3300002: Alambre (curva follower).001
+    3300004: Alambre (curva follower).002
+    3300006: Alambre (curva follower).003
+    3300008: Alambre (curva follower).004
+    3300010: Alambre (curva)
+    3300012: Alambre (pedacito)
+    3300014: Alambre (set de 2)
+    3300016: Bloque
+    3300018: Bloque.001
+    3300020: Bloque.002
+    3300022: Bloque.003
+    3300024: Bloque.004
+    3300026: Bloque.005
+    3300028: Bolsa aplastada
+    3300030: Bolsa de Basura
+    3300032: Bolsa de Basura.001
+    3300034: Bolsa de Basura.002
+    3300036: Bolsa de Basura.003
+    3300038: Bombillo.001
+    3300040: Bombillo.002
+    3300042: Botella
+    3300044: Botella Aplastada
+    3300046: Chapita
+    3300048: Chapon
+    3300050: Circle
+    3300052: Columna aplicada.003
+    3300054: Cube.000
+    3300056: Cube.001
+    3300058: Cube.004
+    3300060: Cube.005
+    3300062: Cube.006
+    3300064: Cube.007
+    3300066: Cylinder
+    3300068: Cylinder.001
+    3300070: Escombro
+    3300072: Escombro.001
+    3300074: Escombro.002
+    3300076: Escombro.003
+    3300078: Escombro.004
+    3300080: Escombro.005
+    3300082: Escombro.006
+    3300084: Escombro.007
+    3300086: Escombro.008
+    3300088: Escombro.009
+    3300090: Escombro.010
+    3300092: Escombro.011
+    3300094: Escombro.012
+    3300096: Escombro.013
+    3300098: Fachada
+    3300100: Human Reference
+    3300102: Lata Rota 01
+    3300104: Lata Rota 02
+    3300106: Marco de ventana
+    3300108: Monton de Basura
+    3300110: Palo entero
+    3300112: Palo roto
+    3300114: Palo roto.001
+    3300116: Plane
+    3300118: Plane.001
+    3300120: Plane.002
+    3300122: Puerta
+    3300124: Puerta_marco
+    3300126: Puerta_pestillo
+    3300128: Reja
+    3300130: Retado de Madera_A
+    3300132: Retado de Madera_B
+    3300134: Retado de Madera_C
+    3300136: Tuberia_codo
+    3300138: Tuberia_codo.001
+    3300140: Tuberia_recta
+    3300142: Tuberia_recta.001
+    3300144: Tuberia_rectaCorta
+    3300146: Tuberia_rectaCorta.001
+    3300148: Tuberia_T
+    3300150: Vegetacion_01
+    3300152: Vegetacion_02
+    3300154: Ventana y marco
+    4300000: Human Reference
+    4300002: Bolsa de Basura
+    4300004: Lata Rota 01
+    4300006: Lata Rota 02
+    4300008: Bolsa aplastada
+    4300010: Botella
+    4300012: Botella Aplastada
+    4300014: Retado de Madera_C
+    4300016: Bolsa de Basura.001
+    4300018: Bolsa de Basura.002
+    4300020: Bolsa de Basura.003
+    4300022: Marco de ventana
+    4300024: Retado de Madera_A
+    4300026: Retado de Madera_B
+    4300028: Vegetacion_01
+    4300030: Vegetacion_02
+    4300032: Bombillo.001
+    4300034: Bombillo.002
+    4300036: Alambre (pedacito)
+    4300038: Alambre (curva follower)
+    4300040: Alambre (curva)
+    4300042: Alambre (set de 2)
+    4300044: Tuberia_recta
+    4300046: Tuberia_codo
+    4300048: Tuberia_rectaCorta
+    4300050: Tuberia_T
+    4300052: Alambre (curva follower).001
+    4300054: Alambre (curva follower).002
+    4300056: Alambre (curva follower).003
+    4300058: Bloque
+    4300060: Circle
+    4300062: Bloque.001
+    4300064: Bloque.002
+    4300066: Bloque.003
+    4300068: Cylinder
+    4300070: Cylinder.001
+    4300072: Bloque.004
+    4300074: Bloque.005
+    4300076: Plane.001
+    4300078: Plane.002
+    4300080: Tuberia_rectaCorta.001
+    4300082: Tuberia_codo.001
+    4300084: Tuberia_recta.001
+    4300086: Alambre (curva follower).004
+    4300088: Plane
+    4300090: Cube.004
+    4300092: Fachada
+    4300094: Cube.000
+    4300096: Cube.001
+    4300098: Cube.005
+    4300100: Cube.007
+    4300102: Cube.006
+    4300104: Puerta_marco
+    4300106: Ventana y marco
+    4300108: Reja
+    4300110: Puerta
+    4300112: Puerta_pestillo
+    4300114: Columna aplicada.003
+    4300116: Escombro.008
+    4300118: Monton de Basura
+    4300120: Chapon
+    4300122: Palo entero
+    4300124: Palo roto.001
+    4300126: Palo roto
+    4300128: Chapita
+    4300130: Escombro.007
+    4300132: Escombro.004
+    4300134: Escombro.001
+    4300136: Escombro.013
+    4300138: Escombro.006
+    4300140: Escombro
+    4300142: Escombro.005
+    4300144: Escombro.012
+    4300146: Escombro.009
+    4300148: Escombro.010
+    4300150: Escombro.002
+    4300152: Escombro.011
+    4300154: Escombro.003
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
