@@ -21,6 +21,7 @@ TagManager:
   - gabinete
   - Index
   - IndexR
+  - leftHand
   layers:
   - Default
   - TransparentFX
